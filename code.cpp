@@ -1,5 +1,5 @@
 /************************************************************
-Program: Play Fair cypher encoder
+Program: Play Fair cypher encipher-decipher
 Author: Mujtaba Asif
 e-Mail: mjtbasif@gmail.com
 Date: 11/18/2017
